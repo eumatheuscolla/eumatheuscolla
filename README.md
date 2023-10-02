@@ -4,9 +4,9 @@
 #### matheus colla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.*
 ### aqui estão algumas informações sobre mim:
 
-### -Name *Matheus Colla*
-### *E-mail matheus.colla@escola.pr.gov.br*
-### *Atualmente estudo em Colégio Estadual Do Campo Irmã Clara*
+### Nome: *Matheus Colla*
+### *E-mail: matheus.colla@escola.pr.gov.br*
+### *Atualmente estudo em: Colégio Estadual Do Campo Irmã Clara*
 ### *Minha linguagem de programação preferida é JavaScript*
 ### *Falo Inglês avançado, e Português*
 
